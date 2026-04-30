@@ -4,6 +4,7 @@
 This repository documents my journey of building strong programming fundamentals using **C, C++, and Java**.
 
 My focus is on understanding core concepts deeply and writing clean, logical code.
+Since most of the syntax and concepts are similar in these languages i am focusing on clearing the fundamentals and will upload code for every concept of each language seperately in a seperate logic codes folder.
 
 ---
 
