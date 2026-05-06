@@ -1,56 +1,92 @@
-# 🚀 C | C++ | Java Learning Repository
+# 🚀 C / C++ / Java Programming Repository
 
-## 📌 About
-This repository documents my journey of building strong programming fundamentals using **C, C++, and Java**.
-
-My focus is on understanding core concepts deeply and writing clean, logical code.
-Since most of the syntax and concepts are similar in these languages i am focusing on clearing the fundamentals and will upload code for every concept of each language seperately in a seperate logic codes folder.
+Welcome to my programming repository!  
+This repository is a collection of my journey learning **C, C++, and Java**, covering fundamental concepts, problem-solving, and hands-on coding practice.
 
 ---
 
-## 🎯 What I’m Doing
-- Learning programming from the ground up  
-- Practicing daily to improve logic  
-- Writing structured and readable code  
+## 📌 About This Repository
+
+This repo is structured to:
+- Strengthen programming fundamentals
+- Practice problem-solving and logic building
+- Build a strong base for Data Structures & Algorithms
+- Prepare for technical interviews and real-world development
 
 ---
 
-## 🛠️ Languages
-- C  
-- C++  
-- Java  
+## 🗂️ Repository Structure
+
+C-Cpp-Java-
+│
+├── C/ # Core C programming concepts and programs
+├── C++/ # C++ fundamentals, STL basics, OOP concepts
+├── Java/ # Java basics and object-oriented programming
+
 
 ---
 
-## 📚 Topics Covered
-- Basics  
-- Input / Output  
-- Conditionals  
-- Loops  
-- Functions  
-- Arrays  
-- Pointers (C)  
-- OOP (C++, Java)  
+## 🧠 Skills Covered
+
+### 🔹 C Language
+- Variables, Data Types
+- Control Statements (if, loops)
+- Functions
+- Arrays & Strings
+- Pointers
+- File Handling
+
+### 🔹 C++
+- OOP Concepts (Encapsulation, Inheritance, Polymorphism)
+- STL (Basics)
+- Classes & Objects
+- Constructors / Destructors
+- Problem Solving
+
+### 🔹 Java
+- Core Java Basics
+- OOP Concepts
+- Exception Handling
+- Basic Programs
 
 ---
 
-## 📈 Progress
-- ✔ 30+ programs written  
-- ✔ Multiple core concepts covered  
-- ✔ Consistent daily practice  
+## 💡 Purpose
+
+This repository reflects:
+- My consistency in coding
+- My understanding of core programming concepts
+- My growth from beginner to intermediate level
 
 ---
 
-## 🔥 Current Focus
-- Strengthening core concepts  
-- Writing cleaner code  
-- Improving logical thinking  
+## 🛠️ How to Run Programs
 
----
+### For C
+```bash
+gcc filename.c -o output
+./output
 
-## 💡 Approach
-This repository focuses on **understanding how code works**, not just writing it.
+### For C++
+g++ filename.cpp -o output
+./output
 
----
+For Java
+javac FileName.java
+java FileName
 
-⭐ Building strong fundamentals, one step at a time.
+java Filename.java (shorthand for above 2 lines)
+
+📈 Future Improvements
+Add Data Structures & Algorithms
+Add mini projects
+Add documentation for each program
+Optimize code with better practices
+🤝 Contributions
+
+This is a personal learning repository, but suggestions are always welcome!
+
+📬 Connect With Me
+GitHub: https://github.com/Piyushgore
+
+⭐ If you find this repository helpful, consider giving it a star!
